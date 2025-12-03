@@ -81,7 +81,7 @@ The overall pipeline of the proposed model. We highlight the following novel com
 
 ## Dataset
 
-We present present MoReSet, a benchmark of 1,275 human-annotated videos spanning nine classes of Newtonian phenomena with scene descriptions, spatiotemporal relations, and ground-truth trajectories. The validation set (75 real-world videos, ~4GB) can be downloaded here [⇱](http://zzzura-secure.duckdns.org/downloads/moreset.zip). We will release training dataset soon. Stay tuned~
+We present present MoReSet, a benchmark of 1,275 human-annotated videos spanning nine classes of Newtonian phenomena with scene descriptions, spatiotemporal relations, and ground-truth trajectories. The validation set (75 real-world videos, \~4GB) can be downloaded here [⇱](http://zzzura-secure.duckdns.org/downloads/moreset.zip). We will release training dataset soon. Stay tuned~
 
 ## License
 
